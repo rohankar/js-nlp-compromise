@@ -1,0 +1,27 @@
+{
+  "name": "js-nlp-compromise",
+  "version": "1.0.0",
+  "description": "simplified nlp",
+  "main": "index.js",
+  "dependencies": {
+    "nlp_compromise": "^6.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohankar/js-nlp-compromise.git"
+  },
+  "keywords": [
+    "nlp",
+    "compromise"
+  ],
+  "author": "Rohan Kar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohankar/js-nlp-compromise/issues"
+  },
+  "homepage": "https://github.com/rohankar/js-nlp-compromise#readme"
+}
